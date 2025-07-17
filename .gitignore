@@ -1,0 +1,22 @@
+# Entorno virtual de Python
+venv/
+.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos de entorno
+.env
+*.env.local
+
+# IDE/Editores
+.vscode/
+.idea/
+
+#SQL files
+SQLQuery1
