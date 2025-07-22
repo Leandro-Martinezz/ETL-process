@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import os
 
 #settings for the sql server engine
-SERVER_NAME = 'localhost' 
+SERVER_NAME = 'postgres' 
 DATABASE_NAME = 'DogsDB' 
 USER = 'postgres' 
 PASSWORD = 'postgres' 
